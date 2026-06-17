@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Below Threshold",
+  "universe": "QEC · Below Threshold",
+  "emergence": "electrical",
+  "moniker": "⟦Below Threshold:QEC:5c5e6b⟧",
+  "carbon": "below-threshold.carbon.tiff (TIFF)",
+  "silicon": "below-threshold.silicon.png (PNG)",
+  "seal_sha256": "1dadd5ad8a8ed9ef1f42e461f9b3d0af275e5c81354e32edaba785dea6a01059",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Quantum Error Correction",
+  "universe": "QEC · Quantum Error Correction",
+  "emergence": "electrical",
+  "moniker": "⟦Quantum Error Correction:QEC:bc7f80⟧",
+  "carbon": "quantum-error-correction.carbon.tiff (TIFF)",
+  "silicon": "quantum-error-correction.silicon.png (PNG)",
+  "seal_sha256": "c9573ca79f872e2b79dba1a1c0f846174f97bab9e1f5555e05dbcd11b621ba0c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

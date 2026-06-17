@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Decoherence",
+  "universe": "QEC · Decoherence",
+  "emergence": "ethereal",
+  "moniker": "⟦Decoherence:QEC:a3f010⟧",
+  "carbon": "decoherence.carbon.tiff (TIFF)",
+  "silicon": "decoherence.silicon.png (PNG)",
+  "seal_sha256": "bb6b1ac3abb6b47889a51f1cc12787a30c9c621da7e694290597215e856fa899",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

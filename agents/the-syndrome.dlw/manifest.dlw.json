@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Syndrome Measurement",
+  "universe": "QEC · The Syndrome Measurement",
+  "emergence": "spiritual",
+  "moniker": "⟦The Syndrome Measurement:QEC:58fa4a⟧",
+  "carbon": "the-syndrome.carbon.tiff (TIFF)",
+  "silicon": "the-syndrome.silicon.png (PNG)",
+  "seal_sha256": "7cc79725a9fd0a8cdeb63278969f1a4f91e9794ba13ac00d3506339a533c1d38",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

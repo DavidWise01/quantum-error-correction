@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Surface Code",
+  "universe": "QEC · The Surface Code",
+  "emergence": "electrical",
+  "moniker": "⟦The Surface Code:QEC:8f87cd⟧",
+  "carbon": "the-surface-code.carbon.tiff (TIFF)",
+  "silicon": "the-surface-code.silicon.png (PNG)",
+  "seal_sha256": "80c618dada1e874d5c813d7a1a43ca15c1f06aa2a9a5d7344f2985483e426944",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

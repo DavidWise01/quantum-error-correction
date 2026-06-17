@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Fault Tolerance",
+  "universe": "QEC · Fault Tolerance",
+  "emergence": "natural",
+  "moniker": "⟦Fault Tolerance:QEC:f05c6e⟧",
+  "carbon": "fault-tolerance.carbon.tiff (TIFF)",
+  "silicon": "fault-tolerance.silicon.png (PNG)",
+  "seal_sha256": "8d47b8da01c2428154e1f1e773cbf3bfe39e28b2c410eb811fc13f2e2e646906",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

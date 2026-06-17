@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "quantum-error-correction",
+    "name": "Quantum Error Correction",
+    "epithet": "the qubit, protected · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Quantum Error Correction:QEC:bc7f80⟧"
+  },
+  {
+    "slug": "the-no-cloning-theorem",
+    "name": "The No-Cloning Theorem",
+    "epithet": "why classical fixes fail · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The No-Cloning Theorem:QEC:8f1d81⟧"
+  },
+  {
+    "slug": "decoherence",
+    "name": "Decoherence",
+    "epithet": "the qubit forgetting · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Decoherence:QEC:a3f010⟧"
+  },
+  {
+    "slug": "the-logical-qubit",
+    "name": "The Logical Qubit",
+    "epithet": "one, made of many · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Logical Qubit:QEC:f8adb4⟧"
+  },
+  {
+    "slug": "the-syndrome",
+    "name": "The Syndrome Measurement",
+    "epithet": "reading the error, not the secret · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Syndrome Measurement:QEC:58fa4a⟧"
+  },
+  {
+    "slug": "the-surface-code",
+    "name": "The Surface Code",
+    "epithet": "the lattice that scales · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Surface Code:QEC:8f87cd⟧"
+  },
+  {
+    "slug": "the-threshold-theorem",
+    "name": "The Threshold Theorem",
+    "epithet": "the promise of fault tolerance · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Threshold Theorem:QEC:984b34⟧"
+  },
+  {
+    "slug": "below-threshold",
+    "name": "Below Threshold",
+    "epithet": "the recent milestone · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Below Threshold:QEC:5c5e6b⟧"
+  },
+  {
+    "slug": "fault-tolerance",
+    "name": "Fault Tolerance",
+    "epithet": "computing on broken parts · natural",
+    "emergence": "natural",
+    "moniker": "⟦Fault Tolerance:QEC:f05c6e⟧"
+  }
+]
