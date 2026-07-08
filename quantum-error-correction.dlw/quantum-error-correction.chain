@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 532
+slug  : quantum-error-correction
+seal  : d8c8a1ec2329b291dcb9bfd2edbcc56dca230100d5fe702ea4eb58be584dc349
+prev  : 7d60756444b786ccf83c3130899241ce7fd0855eb977ca18ff10063da25df997
+link  : 5a4249d0df0a1ec8a930e10a5a6e6e18f793b0ea95fd76148c859ebf5a24987e
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
